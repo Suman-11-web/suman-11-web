@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Suman+M+%F0%9F%91%8B;Full-Stack+Web+Developer+%26+Cloud+Architect;Python+%E2%80%A2+Django+%E2%80%A2+Flask+%E2%80%A2+JavaScript+%E2%80%A2+C%2B%2B+%E2%80%A2+R;Architecting+on+AWS+(EC2%2C+S3)%2C+Docker+%26+DevOps+%E2%9A%A1;Explore+My+Work+at+thesuman.in+%F0%9F%8C%90)](https://thesuman.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Suman+M+%F0%9F%91%8B;Full-Stack+Web+Developer+%26+cloud+architecture;Python+%E2%80%A2+Django+%E2%80%A2+Flask+%E2%80%A2+JavaScript+%E2%80%A2+C%2B%2B+%E2%80%A2+R;Architecting+on+AWS+(EC2%2C+S3)%2C+Docker+%26+DevOps+%E2%9A%A1;Explore+My+Work+at+thesuman.in+%F0%9F%8C%90)](https://thesuman.in)
 
 
 
