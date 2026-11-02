@@ -1,4 +1,6 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:062f3c,100:0a4a5c&height=230&section=header&text=Suman%20M&fontSize=54&fontColor=22D3EE&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architecture%20%26%20DevOps%20Enthusiast&descAlignY=58&descSize=19&descColor=ffffff)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:062f3c,100:0a4a5c&height=220&section=header&text=Suman%20M&fontSize=50&fontColor=22D3EE&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Cloud%20Architecture%20|%20DevOps&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+</div>
 
 
 
